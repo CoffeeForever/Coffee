@@ -8,4 +8,3 @@
     1. Washed
     2. Natural
     3. Honey
-- 
